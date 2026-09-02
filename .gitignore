@@ -9,3 +9,5 @@ core.*
 *.lock
 *.lock~
 ret2win.zip
+*.zip
+.gdb_history
