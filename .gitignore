@@ -11,3 +11,5 @@ core.*
 ret2win.zip
 *.zip
 .gdb_history
+*.dat
+*.so
